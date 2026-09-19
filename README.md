@@ -6,7 +6,7 @@ Software Developer
 - **Languages:** Python, C++, SQL, JavaScript
 - **Backend & Bots:** FastAPI, aiogram 3.x, asyncio
 - **Databases:** PostgreSQL, SQLite, SQLAlchemy
-- **Tools:** Git, Linux, Docker, Qt
+- **Tools:** Git, Linux, Qt
 
 ### 📫 Контакти
 - [Telegram](https://t.me/AirNova56)
