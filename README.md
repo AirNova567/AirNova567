@@ -14,6 +14,4 @@ Software Developer
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airnova567&show_icons=true&locale=en" alt="airnova567" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airnova567&label=Profile%20views&color=0e75b6&style=flat" alt="airnova567" /> </p>
