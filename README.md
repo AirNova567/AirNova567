@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привіт, я Олександр 👋
 
-<!--
-**AirNova567/AirNova567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
 
-Here are some ideas to get you started:
+### 🛠 Стек
+- **Languages:** Python, C++, SQL, JavaScript
+- **Backend & Bots:** FastAPI, aiogram 3.x, asyncio
+- **Databases:** PostgreSQL, SQLite, SQLAlchemy
+- **Tools:** Git, Linux, Docker, Qt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакти
+- [Telegram](https://t.me/AirNova56)
+- [Email](airnova567@gmail.com)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight" />
+</p>
